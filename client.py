@@ -19,7 +19,7 @@ server_port = 5005
 file_name = sys.argv[2]
 buffer_size = 1024
 response_size = 20
-time_out = 1
+time_out = 10
 
 file = open(file_name, 'rb')
 

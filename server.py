@@ -1,7 +1,7 @@
 """
 Author: Nicholas Baron (830278807)
 Description: This is a TCP server that receives a file from a client and saves it.
-It replys to the client with the number of bytes that is received
+It replies to the client with the number of bytes that is received
 """
 import sys
 import socket
