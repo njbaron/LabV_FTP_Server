@@ -1,5 +1,5 @@
-CE 456 TCP Server/ Client Lab5
-by Nick Baron 830278807
+TCP Server/ Client
+by Nick Baron
 
 You need to have python3!
 
